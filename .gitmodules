@@ -1,0 +1,3 @@
+[submodule "testconflict"]
+	path = testconflict
+	url = https://github.com/zhengdabai/testconflict.git
